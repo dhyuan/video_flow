@@ -1,0 +1,262 @@
+[root@new201 ~]# cat /etc/redhat-release
+CentOS Linux release 7.7.1908 (Core)
+
+
+[root@new201 home]# /usr/local/cuda-10.0/extras/demo_suite/deviceQuery
+/usr/local/cuda-10.0/extras/demo_suite/deviceQuery Starting...
+
+CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 1 CUDA Capable device(s)
+
+Device 0: "Tesla K40c"
+  CUDA Driver Version / Runtime Version          10.0 / 10.0
+  CUDA Capability Major/Minor version number:    3.5
+  Total amount of global memory:                 11441 MBytes (11996954624 bytes)
+  (15) Multiprocessors, (192) CUDA Cores/MP:     2880 CUDA Cores
+  GPU Max Clock rate:                            745 MHz (0.75 GHz)
+  Memory Clock rate:                             3004 Mhz
+  Memory Bus Width:                              384-bit
+  L2 Cache Size:                                 1572864 bytes
+  Maximum Texture Dimension Size (x,y,z)         1D=(65536), 2D=(65536, 65536), 3D=(4096, 4096, 4096)
+  Maximum Layered 1D Texture Size, (num) layers  1D=(16384), 2048 layers
+
+  Maximum Layered 2D Texture Size, (num) layers  2D=(16384, 16384), 2048 layers
+  Total amount of constant memory:               65536 bytes
+  Total amount of shared memory per block:       49152 bytes
+  Total number of registers available per block: 65536
+  Warp size:                                     32
+  Maximum number of threads per multiprocessor:  2048
+  Maximum number of threads per block:           1024
+  Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+  Max dimension size of a grid size    (x,y,z): (2147483647, 65535, 65535)
+  Maximum memory pitch:                          2147483647 bytes
+  Texture alignment:                             512 bytes
+  Concurrent copy and kernel execution:          Yes with 2 copy engine(s)
+  Run time limit on kernels:                     No
+  Integrated GPU sharing Host Memory:            No
+  Support host page-locked memory mapping:       Yes
+  Alignment requirement for Surfaces:            Yes
+  Device has ECC support:                        Enabled
+  Device supports Unified Addressing (UVA):      Yes
+  Device supports Compute Preemption:            No
+  Supports Cooperative Kernel Launch:            No
+  Supports MultiDevice Co-op Kernel Launch:      No
+  Device PCI Domain ID / Bus ID / location ID:   0 / 2 / 0
+  Compute Mode:
+     < Default (multiple host threads can use ::cudaSetDevice() with device simultaneously) >
+
+deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 10.0, CUDA Runtime Version = 10.0, NumDevs = 1, Device0 = Tesla K40c
+Result = PASS
+[root@new201 home]#
+
+[root@new201 home]# cat /proc/driver/nvidia/version
+NVRM version: NVIDIA UNIX x86_64 Kernel Module  410.129  Sun Jul 21 07:02:47 CDT 2019
+GCC version:  gcc version 4.8.5 20150623 (Red Hat 4.8.5-39) (GCC)
+[root@new201 home]#
+
+[root@new201 ~]# /usr/local/cuda-10.1/extras/demo_suite/deviceQuery
+/usr/local/cuda-10.1/extras/demo_suite/deviceQuery Starting...
+
+ CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 1 CUDA Capable device(s)
+
+Device 0: "Quadro RTX 4000"
+  CUDA Driver Version / Runtime Version          10.1 / 10.1
+  CUDA Capability Major/Minor version number:    7.5
+  Total amount of global memory:                 7982 MBytes (8370061312 bytes)
+  (36) Multiprocessors, ( 64) CUDA Cores/MP:     2304 CUDA Cores
+  GPU Max Clock rate:                            1545 MHz (1.54 GHz)
+  Memory Clock rate:                             6501 Mhz
+  Memory Bus Width:                              256-bit
+  L2 Cache Size:                                 4194304 bytes
+  Maximum Texture Dimension Size (x,y,z)         1D=(131072), 2D=(131072, 65536), 3D=(16384, 16384, 16384)
+  Maximum Layered 1D Texture Size, (num) layers  1D=(32768), 2048 layers
+  Maximum Layered 2D Texture Size, (num) layers  2D=(32768, 32768), 2048 layers
+  Total amount of constant memory:               65536 bytes
+  Total amount of shared memory per block:       49152 bytes
+  Total number of registers available per block: 65536
+  Warp size:                                     32
+  Maximum number of threads per multiprocessor:  1024
+  Maximum number of threads per block:           1024
+  Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+  Max dimension size of a grid size    (x,y,z): (2147483647, 65535, 65535)
+  Maximum memory pitch:                          2147483647 bytes
+  Texture alignment:                             512 bytes
+  Concurrent copy and kernel execution:          Yes with 3 copy engine(s)
+  Run time limit on kernels:                     No
+  Integrated GPU sharing Host Memory:            No
+  Support host page-locked memory mapping:       Yes
+  Alignment requirement for Surfaces:            Yes
+  Device has ECC support:                        Disabled
+  Device supports Unified Addressing (UVA):      Yes
+  Device supports Compute Preemption:            Yes
+  Supports Cooperative Kernel Launch:            Yes
+  Supports MultiDevice Co-op Kernel Launch:      Yes
+  Device PCI Domain ID / Bus ID / location ID:   0 / 2 / 0
+  Compute Mode:
+     < Default (multiple host threads can use ::cudaSetDevice() with device simultaneously) >
+
+deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 10.1, CUDA Runtime Version = 10.1, NumDevs = 1, Device0 = Quadro RTX 4000
+Result = PASS
+[root@new201 ~]#lspci | grep -i nvidia
+[root@new201 ~]# cat /usr/local/cuda/version.txt
+CUDA Version 10.1.243
+[root@new201 ~]#
+
+
+[videofeature@192 ~]$ ../CUDA/cuda-10.0/extras/demo_suite/deviceQuery
+../CUDA/cuda-10.0/extras/demo_suite/deviceQuery Starting...
+
+ CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 1 CUDA Capable device(s)
+
+Device 0: "Tesla P4"
+  CUDA Driver Version / Runtime Version          10.0 / 10.0
+  CUDA Capability Major/Minor version number:    6.1
+  Total amount of global memory:                 7612 MBytes (7981694976 bytes)
+  (20) Multiprocessors, (128) CUDA Cores/MP:     2560 CUDA Cores
+  GPU Max Clock rate:                            1114 MHz (1.11 GHz)
+  Memory Clock rate:                             3003 Mhz
+  Memory Bus Width:                              256-bit
+  L2 Cache Size:                                 2097152 bytes
+  Maximum Texture Dimension Size (x,y,z)         1D=(131072), 2D=(131072, 65536), 3D=(16384, 16384, 16384)
+  Maximum Layered 1D Texture Size, (num) layers  1D=(32768), 2048 layers
+  Maximum Layered 2D Texture Size, (num) layers  2D=(32768, 32768), 2048 layers
+  Total amount of constant memory:               65536 bytes
+  Total amount of shared memory per block:       49152 bytes
+  Total number of registers available per block: 65536
+  Warp size:                                     32
+  Maximum number of threads per multiprocessor:  2048
+  Maximum number of threads per block:           1024
+  Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+  Max dimension size of a grid size    (x,y,z): (2147483647, 65535, 65535)
+  Maximum memory pitch:                          2147483647 bytes
+  Texture alignment:                             512 bytes
+  Concurrent copy and kernel execution:          Yes with 2 copy engine(s)
+  Run time limit on kernels:                     No
+  Integrated GPU sharing Host Memory:            No
+  Support host page-locked memory mapping:       Yes
+  Alignment requirement for Surfaces:            Yes
+  Device has ECC support:                        Enabled
+  Device supports Unified Addressing (UVA):      Yes
+  Device supports Compute Preemption:            Yes
+  Supports Cooperative Kernel Launch:            Yes
+  Supports MultiDevice Co-op Kernel Launch:      Yes
+  Device PCI Domain ID / Bus ID / location ID:   0 / 65 / 0
+  Compute Mode:
+     < Default (multiple host threads can use ::cudaSetDevice() with device simultaneously) >
+
+deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 10.0, CUDA Runtime Version = 10.0, NumDevs = 1, Device0 = Tesla P4
+Result = PASS
+[videofeature@192 ~]$
+
+
+[root@iZwz93cz8pz4972xv6a0gsZ ~]# /usr/local/cuda-10.1/extras/demo_suite/deviceQuery
+/usr/local/cuda-10.1/extras/demo_suite/deviceQuery Starting...
+
+ CUDA Device Query (Runtime API) version (CUDART static linking)
+
+Detected 1 CUDA Capable device(s)
+
+Device 0: "Tesla T4"
+  CUDA Driver Version / Runtime Version          10.2 / 10.1
+  CUDA Capability Major/Minor version number:    7.5
+  Total amount of global memory:                 15110 MBytes (15843721216 bytes)
+  (40) Multiprocessors, ( 64) CUDA Cores/MP:     2560 CUDA Cores
+  GPU Max Clock rate:                            1590 MHz (1.59 GHz)
+  Memory Clock rate:                             5001 Mhz
+  Memory Bus Width:                              256-bit
+  L2 Cache Size:                                 4194304 bytes
+  Maximum Texture Dimension Size (x,y,z)         1D=(131072), 2D=(131072, 65536), 3D=(16384, 16384, 16384)
+  Maximum Layered 1D Texture Size, (num) layers  1D=(32768), 2048 layers
+  Maximum Layered 2D Texture Size, (num) layers  2D=(32768, 32768), 2048 layers
+  Total amount of constant memory:               65536 bytes
+  Total amount of shared memory per block:       49152 bytes
+  Total number of registers available per block: 65536
+  Warp size:                                     32
+  Maximum number of threads per multiprocessor:  1024
+  Maximum number of threads per block:           1024
+  Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+  Max dimension size of a grid size    (x,y,z): (2147483647, 65535, 65535)
+  Maximum memory pitch:                          2147483647 bytes
+  Texture alignment:                             512 bytes
+  Run time limit on kernels:                     No
+  Integrated GPU sharing Host Memory:            No
+  Support host page-locked memory mapping:       Yes
+  Alignment requirement for Surfaces:            Yes
+  Device has ECC support:                        Enabled
+  Device supports Unified Addressing (UVA):      Yes
+  Device supports Compute Preemption:            Yes
+  Supports Cooperative Kernel Launch:            Yes
+  Supports MultiDevice Co-op Kernel Launch:      Yes
+  Device PCI Domain ID / Bus ID / location ID:   0 / 0 / 7
+  Compute Mode:
+     < Default (multiple host threads can use ::cudaSetDevice() with device simultaneously) >
+
+deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 10.2, CUDA Runtime Version = 10.1, NumDevs = 1, Device0 = Tesla T4
+Result = PASS
+[root@iZwz93cz8pz4972xv6a0gsZ ~]#
+
+
+
+
+[root@new201 ~]# lspci | grep -i vga
+00:02.0 VGA compatible controller: Intel Corporation UHD Graphics 630 (Desktop 9 Series) (rev 02)
+02:00.0 VGA compatible controller: NVIDIA Corporation TU104GL [Quadro RTX 4000] (rev a1)
+[root@new201 ~]#
+
+[root@new201 ~]# lspci | grep -i nvidia
+02:00.0 VGA compatible controller: NVIDIA Corporation TU104GL [Quadro RTX 4000] (rev a1)
+02:00.1 Audio device: NVIDIA Corporation Device 10f8 (rev a1)
+02:00.2 USB controller: NVIDIA Corporation Device 1ad8 (rev a1)
+02:00.3 Serial bus controller [0c80]: NVIDIA Corporation Device 1ad9 (rev a1)
+[root@new201 ~]#
+
+[root@new201 ~]#
+[root@new201 ~]# nvidia-smi
+Mon Aug  3 09:57:31 2020
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 435.21       Driver Version: 435.21       CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Quadro RTX 4000     Off  | 00000000:02:00.0 Off |                  N/A |
+| 25%   55C    P0     1W / 125W |      0MiB /  7982MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+[root@new201 ~]#
+
+[root@new201 ~]# watch -n 5 nvidia-smi
+
+
+
+(tf1.15_py3.7) [root@iZwz93cz8pz4972xv6a0gsZ src]# lspci | grep -i nvidia
+00:07.0 3D controller: NVIDIA Corporation TU104GL [Tesla T4] (rev a1)
+(tf1.15_py3.7) [root@iZwz93cz8pz4972xv6a0gsZ src]#
+(tf1.15_py3.7) [root@iZwz93cz8pz4972xv6a0gsZ src]#
+(tf1.15_py3.7) [root@iZwz93cz8pz4972xv6a0gsZ src]#  lspci -v -s 00:07.0
+00:07.0 3D controller: NVIDIA Corporation TU104GL [Tesla T4] (rev a1)
+	Subsystem: NVIDIA Corporation Device 12a2
+	Physical Slot: 7
+	Flags: bus master, fast devsel, latency 0, IRQ 10
+	Memory at fd000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at e0000000 (64-bit, prefetchable) [size=256M]
+	Memory at f2000000 (64-bit, prefetchable) [size=32M]
+	Capabilities: [60] Power Management version 3
+	Capabilities: [68] #00 [0080]
+	Capabilities: [78] Express Endpoint, MSI 00
+	Capabilities: [c8] MSI-X: Enable+ Count=6 Masked-
+	Kernel driver in use: nvidia
+	Kernel modules: nouveau, nvidia_drm, nvidia
+
+(tf1.15_py3.7) [root@iZwz93cz8pz4972xv6a0gsZ src]#

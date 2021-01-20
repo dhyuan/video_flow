@@ -1,0 +1,4 @@
+Flask==1.1.2
+jproperties==2.1.0
+mysql-connector-python==8.0.21
+apscheduler==3.6.3

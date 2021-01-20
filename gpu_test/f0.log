@@ -1,0 +1,541 @@
+忽略空文件: others
+src-file ./data/source/U2RoseBowl体育演唱会_AIresult_top5.txt 37771
+src-file ./data/source/12罗汉_AIresult_top5.txt 34202
+src-file ./data/source/300勇士_AIresult_top5.txt 31021
+src-file ./data/source/42号传奇_AIresult_top5.txt 36694
+src-file ./data/source/8毫米_AIresult_top5.txt 34729
+src-file ./data/source/9秒危机_AIresult_top5.txt 26197
+src-file ./data/source/I-5杀手追杀令_AIresult_top5.txt 25296
+src-file ./data/source/兵出潼关-09_AIresult_top5.txt 13516
+src-file ./data/source/兵出潼关-10_AIresult_top5.txt 13576
+src-file ./data/source/兵出潼关-15_AIresult_top5.txt 13594
+src-file ./data/source/兵出潼关-21_AIresult_top5.txt 13524
+src-file ./data/source/兵出潼关-24_AIresult_top5.txt 13530
+src-file ./data/source/大村官-03_AIresult_top5.txt 13677
+src-file ./data/source/大村官-06_AIresult_top5.txt 13765
+src-file ./data/source/大村官-32_AIresult_top5.txt 13656
+src-file ./data/source/大村官-37_AIresult_top5.txt 13771
+src-file ./data/source/果果骑侠传E02_AIresult_top5.txt 4202
+src-file ./data/source/果果骑侠传E07_AIresult_top5.txt 4202
+src-file ./data/source/果果骑侠传E33_AIresult_top5.txt 4202
+src-file ./data/source/果果骑侠传E36_AIresult_top5.txt 4202
+src-file ./data/source/熊仔之雄心壮志01_AIresult_top5.txt 4501
+src-file ./data/source/熊仔之雄心壮志04_AIresult_top5.txt 4501
+src-file ./data/source/熊仔之雄心壮志18_AIresult_top5.txt 4500
+src-file ./data/source/熊仔之雄心壮志28_AIresult_top5.txt 4501
+src-file ./data/source/熊仔之雄心壮志29_AIresult_top5.txt 4501
+src-file ./data/source/熊仔之雄心壮志30_AIresult_top5.txt 4500
+src-file ./data/source/熊仔之雄心壮志35_AIresult_top5.txt 4500
+src-file ./data/source/爱乐之城_AIresult_top5.txt 35841
+src-file ./data/source/爱在回响_AIresult_top5.txt 27056
+src-file ./data/source/爱德怀德_AIresult_top5.txt 34040
+src-file ./data/source/爱情口难开_AIresult_top5.txt 30189
+src-file ./data/source/豆芽农场12_AIresult_top5.txt 4501
+src-file ./data/source/豆芽农场17_AIresult_top5.txt 4501
+src-file ./data/source/豆芽农场23_AIresult_top5.txt 4501
+src-file ./data/source/豆芽农场26_AIresult_top5.txt 4501
+src-file ./data/source/豆芽农场40_AIresult_top5.txt 4501
+src-file ./data/source/超级飞侠09_AIresult_top5.txt 3903
+src-file ./data/source/超级飞侠10_AIresult_top5.txt 3903
+src-file ./data/source/超级飞侠15_AIresult_top5.txt 3903
+src-file ./data/source/超级飞侠21_AIresult_top5.txt 3903
+src-file ./data/source/超级飞侠24_AIresult_top5.txt 3903
+src-file ./data/source/超级飞侠25_AIresult_top5.txt 3903
+src-file ./data/source/车在囧途_AIresult_top5.txt 27156
+src-file ./data/source/面具战士03_AIresult_top5.txt 7557
+src-file ./data/source/面具战士06_AIresult_top5.txt 7557
+src-file ./data/source/面具战士07_AIresult_top5.txt 7557
+src-file ./data/source/阿曼达·诺克斯：在意大利接受审判的凶手_AIresult_top5.txt 6963
+读取48个源特征文件用时：0:00:01.557826
+特征值2506680导入GPU用时：0
+Total 612 blocks are needed to compare on GPU.
+[0.1273208 0.        0.       ]
+*** GPU计算用时：0:00:00.838367
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.300023
+*** CPU final_result 用时：0:00:00.000073
+-------------------------------------------------------------------------测试视频 test0001_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：42.08%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13892 帧,即原视频 46 分 18 秒处
+top2：概率：41.40%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35407 帧,即原视频 118 分 1 秒处
+top3：概率：39.46%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6218 帧,即原视频 20 分 43 秒处
+top4：概率：38.85%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 23974 帧,即原视频 79 分 54 秒处
+top5：概率：38.60%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6723 帧,即原视频 22 分 24 秒处
+top6：概率：38.57%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4149 帧,即原视频 13 分 49 秒处
+top7：概率：38.57%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 18491 帧,即原视频 61 分 38 秒处
+top8：概率：38.57%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13890 帧,即原视频 46 分 18 秒处
+top9：概率：38.48%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7942 帧,即原视频 26 分 28 秒处
+top10：概率：38.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6722 帧,即原视频 22 分 24 秒处
+top11：概率：38.20%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 23972 帧,即原视频 79 分 54 秒处
+top12：概率：37.77%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8556 帧,即原视频 28 分 31 秒处
+top13：概率：37.49%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35408 帧,即原视频 118 分 1 秒处
+top14：概率：37.36%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8557 帧,即原视频 28 分 31 秒处
+top15：概率：37.11%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8590 帧,即原视频 28 分 38 秒处
+----------最大概率为：42.08%--------------------
+在 47 个文件中比对 test0001_AIresult_top5.txt 用时: 0:00:05.151336
+Total 612 blocks are needed to compare on GPU.
+[0.0299042 0.        0.       ]
+*** GPU计算用时：0:00:00.005820
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:05.005733
+*** CPU final_result 用时：0:00:00.000052
+-------------------------------------------------------------------------测试视频 test0002_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：45.36%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 10434 帧,即原视频 34 分 46 秒处
+----------最大概率为：45.36%--------------------
+在 47 个文件中比对 test0002_AIresult_top5.txt 用时: 0:00:05.016745
+Total 612 blocks are needed to compare on GPU.
+[0.09770884 0.         0.        ]
+*** GPU计算用时：0:00:00.004982
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.585581
+*** CPU final_result 用时：0:00:00.000305
+-------------------------------------------------------------------------测试视频 test0013_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：25.03%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24845 帧,即原视频 82 分 49 秒处
+top2：概率：24.73%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24837 帧,即原视频 82 分 47 秒处
+top3：概率：24.68%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28325 帧,即原视频 94 分 25 秒处
+top4：概率：24.48%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15674 帧,即原视频 52 分 14 秒处
+top5：概率：24.45%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15675 帧,即原视频 52 分 15 秒处
+top6：概率：23.87%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28324 帧,即原视频 94 分 24 秒处
+top7：概率：23.87%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25680 帧,即原视频 85 分 36 秒处
+top8：概率：23.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26034 帧,即原视频 86 分 46 秒处
+top9：概率：23.29%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28156 帧,即原视频 93 分 51 秒处
+top10：概率：23.13%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14424 帧,即原视频 48 分 4 秒处
+top11：概率：23.05%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7763 帧,即原视频 25 分 52 秒处
+top12：概率：22.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 3711 帧,即原视频 12 分 22 秒处
+top13：概率：22.75%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6855 帧,即原视频 22 分 51 秒处
+top14：概率：22.70%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24844 帧,即原视频 82 分 48 秒处
+top15：概率：22.66%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6620 帧,即原视频 22 分 4 秒处
+top16：概率：22.59%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15484 帧,即原视频 51 分 36 秒处
+top17：概率：22.53%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26094 帧,即原视频 86 分 58 秒处
+top18：概率：22.46%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28157 帧,即原视频 93 分 51 秒处
+top19：概率：22.39%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26095 帧,即原视频 86 分 59 秒处
+top20：概率：22.37%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14425 帧,即原视频 48 分 5 秒处
+top21：概率：22.32%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25016 帧,即原视频 83 分 23 秒处
+top22：概率：22.32%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 3647 帧,即原视频 12 分 9 秒处
+top23：概率：22.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28952 帧,即原视频 96 分 30 秒处
+top24：概率：22.28%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6297 帧,即原视频 20 分 59 秒处
+top25：概率：22.23%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13913 帧,即原视频 46 分 22 秒处
+top26：概率：22.22%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4942 帧,即原视频 16 分 28 秒处
+top27：概率：22.12%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28326 帧,即原视频 94 分 25 秒处
+top28：概率：22.11%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26033 帧,即原视频 86 分 46 秒处
+top29：概率：22.11%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14933 帧,即原视频 49 分 46 秒处
+top30：概率：22.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8017 帧,即原视频 26 分 43 秒处
+top31：概率：22.04%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14423 帧,即原视频 48 分 4 秒处
+top32：概率：22.03%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26656 帧,即原视频 88 分 51 秒处
+top33：概率：21.99%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25015 帧,即原视频 83 分 23 秒处
+top34：概率：21.94%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25023 帧,即原视频 83 分 24 秒处
+top35：概率：21.90%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28944 帧,即原视频 96 分 28 秒处
+top36：概率：21.89%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 3709 帧,即原视频 12 分 21 秒处
+top37：概率：21.87%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6269 帧,即原视频 20 分 53 秒处
+top38：概率：21.85%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8200 帧,即原视频 27 分 20 秒处
+top39：概率：21.84%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7762 帧,即原视频 25 分 52 秒处
+top40：概率：21.83%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25006 帧,即原视频 83 分 21 秒处
+top41：概率：21.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28950 帧,即原视频 96 分 30 秒处
+top42：概率：21.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28158 帧,即原视频 93 分 51 秒处
+top43：概率：21.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28954 帧,即原视频 96 分 30 秒处
+top44：概率：21.80%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8016 帧,即原视频 26 分 43 秒处
+top45：概率：21.79%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25010 帧,即原视频 83 分 22 秒处
+top46：概率：21.77%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28945 帧,即原视频 96 分 29 秒处
+top47：概率：21.76%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28155 帧,即原视频 93 分 51 秒处
+top48：概率：21.74%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7844 帧,即原视频 26 分 8 秒处
+top49：概率：21.73%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25022 帧,即原视频 83 分 24 秒处
+top50：概率：21.68%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24838 帧,即原视频 82 分 47 秒处
+top51：概率：21.65%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24836 帧,即原视频 82 分 47 秒处
+top52：概率：21.65%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24972 帧,即原视频 83 分 14 秒处
+top53：概率：21.63%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6298 帧,即原视频 20 分 59 秒处
+top54：概率：21.61%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6218 帧,即原视频 20 分 43 秒处
+top55：概率：21.60%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15667 帧,即原视频 52 分 13 秒处
+top56：概率：21.58%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7287 帧,即原视频 24 分 17 秒处
+top57：概率：21.58%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25431 帧,即原视频 84 分 46 秒处
+top58：概率：21.56%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6373 帧,即原视频 21 分 14 秒处
+top59：概率：21.52%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15469 帧,即原视频 51 分 33 秒处
+top60：概率：21.51%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35186 帧,即原视频 117 分 17 秒处
+top61：概率：21.51%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15483 帧,即原视频 51 分 36 秒处
+top62：概率：21.48%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7310 帧,即原视频 24 分 22 秒处
+top63：概率：21.46%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8305 帧,即原视频 27 分 41 秒处
+top64：概率：21.45%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6627 帧,即原视频 22 分 5 秒处
+top65：概率：21.40%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 30412 帧,即原视频 101 分 22 秒处
+top66：概率：21.39%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24973 帧,即原视频 83 分 14 秒处
+top67：概率：21.39%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28327 帧,即原视频 94 分 25 秒处
+top68：概率：21.37%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8302 帧,即原视频 27 分 40 秒处
+top69：概率：21.37%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6372 帧,即原视频 21 分 14 秒处
+top70：概率：21.34%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24843 帧,即原视频 82 分 48 秒处
+top71：概率：21.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28342 帧,即原视频 94 分 28 秒处
+top72：概率：21.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6371 帧,即原视频 21 分 14 秒处
+top73：概率：21.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25678 帧,即原视频 85 分 35 秒处
+top74：概率：21.29%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6854 帧,即原视频 22 分 50 秒处
+top75：概率：21.28%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6616 帧,即原视频 22 分 3 秒处
+top76：概率：21.28%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7841 帧,即原视频 26 分 8 秒处
+top77：概率：21.26%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15485 帧,即原视频 51 分 37 秒处
+top78：概率：21.21%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6591 帧,即原视频 21 分 58 秒处
+top79：概率：21.21%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7838 帧,即原视频 26 分 7 秒处
+top80：概率：21.20%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24835 帧,即原视频 82 分 47 秒处
+top81：概率：21.18%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28112 帧,即原视频 93 分 42 秒处
+top82：概率：21.17%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 2349 帧,即原视频 7 分 49 秒处
+top83：概率：21.16%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6856 帧,即原视频 22 分 51 秒处
+top84：概率：21.15%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25007 帧,即原视频 83 分 21 秒处
+top85：概率：21.14%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26173 帧,即原视频 87 分 14 秒处
+top86：概率：21.12%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13872 帧,即原视频 46 分 14 秒处
+top87：概率：21.11%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6621 帧,即原视频 22 分 4 秒处
+top88：概率：21.11%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 3710 帧,即原视频 12 分 22 秒处
+top89：概率：21.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28947 帧,即原视频 96 分 29 秒处
+top90：概率：21.04%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26035 帧,即原视频 86 分 47 秒处
+top91：概率：21.02%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25679 帧,即原视频 85 分 35 秒处
+top92：概率：21.02%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35187 帧,即原视频 117 分 17 秒处
+top93：概率：21.01%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25700 帧,即原视频 85 分 40 秒处
+top94：概率：21.00%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8202 帧,即原视频 27 分 20 秒处
+top95：概率：20.99%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8201 帧,即原视频 27 分 20 秒处
+top96：概率：20.98%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13869 帧,即原视频 46 分 13 秒处
+top97：概率：20.98%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6595 帧,即原视频 21 分 59 秒处
+top98：概率：20.98%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6597 帧,即原视频 21 分 59 秒处
+top99：概率：20.97%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7306 帧,即原视频 24 分 21 秒处
+top100：概率：20.96%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6241 帧,即原视频 20 分 48 秒处
+top101：概率：20.95%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6706 帧,即原视频 22 分 21 秒处
+top102：概率：20.95%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35422 帧,即原视频 118 分 4 秒处
+top103：概率：20.93%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25361 帧,即原视频 84 分 32 秒处
+top104：概率：20.91%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15492 帧,即原视频 51 分 38 秒处
+top105：概率：20.90%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26450 帧,即原视频 88 分 10 秒处
+top106：概率：20.90%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4938 帧,即原视频 16 分 27 秒处
+top107：概率：20.89%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6270 帧,即原视频 20 分 54 秒处
+top108：概率：20.89%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6619 帧,即原视频 22 分 3 秒处
+top109：概率：20.89%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 3229 帧,即原视频 10 分 45 秒处
+top110：概率：20.88%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14934 帧,即原视频 49 分 46 秒处
+top111：概率：20.88%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14935 帧,即原视频 49 分 47 秒处
+top112：概率：20.88%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 23079 帧,即原视频 76 分 55 秒处
+top113：概率：20.85%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8303 帧,即原视频 27 分 40 秒处
+top114：概率：20.83%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24813 帧,即原视频 82 分 42 秒处
+top115：概率：20.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6273 帧,即原视频 20 分 54 秒处
+top116：概率：20.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8537 帧,即原视频 28 分 27 秒处
+top117：概率：20.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26032 帧,即原视频 86 分 46 秒处
+top118：概率：20.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26171 帧,即原视频 87 分 14 秒处
+top119：概率：20.81%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6592 帧,即原视频 21 分 58 秒处
+top120：概率：20.81%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6718 帧,即原视频 22 分 23 秒处
+top121：概率：20.79%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4943 帧,即原视频 16 分 28 秒处
+top122：概率：20.79%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7308 帧,即原视频 24 分 21 秒处
+top123：概率：20.75%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6707 帧,即原视频 22 分 21 秒处
+top124：概率：20.75%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25014 帧,即原视频 83 分 22 秒处
+top125：概率：20.74%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7933 帧,即原视频 26 分 26 秒处
+top126：概率：20.73%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28113 帧,即原视频 93 分 42 秒处
+top127：概率：20.73%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8543 帧,即原视频 28 分 28 秒处
+top128：概率：20.72%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14114 帧,即原视频 47 分 2 秒处
+top129：概率：20.71%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24832 帧,即原视频 82 分 46 秒处
+top130：概率：20.71%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4940 帧,即原视频 16 分 28 秒处
+top131：概率：20.70%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15676 帧,即原视频 52 分 15 秒处
+top132：概率：20.70%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8203 帧,即原视频 27 分 20 秒处
+top133：概率：20.70%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 29295 帧,即原视频 97 分 39 秒处
+top134：概率：20.69%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8544 帧,即原视频 28 分 28 秒处
+top135：概率：20.68%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6708 帧,即原视频 22 分 21 秒处
+top136：概率：20.68%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7288 帧,即原视频 24 分 17 秒处
+top137：概率：20.68%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26096 帧,即原视频 86 分 59 秒处
+top138：概率：20.67%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 29296 帧,即原视频 97 分 39 秒处
+top139：概率：20.67%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7761 帧,即原视频 25 分 52 秒处
+top140：概率：20.66%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28995 帧,即原视频 96 分 39 秒处
+top141：概率：20.66%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 33586 帧,即原视频 111 分 57 秒处
+top142：概率：20.64%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6594 帧,即原视频 21 分 58 秒处
+top143：概率：20.63%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26448 帧,即原视频 88 分 9 秒处
+top144：概率：20.63%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13870 帧,即原视频 46 分 14 秒处
+top145：概率：20.62%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24810 帧,即原视频 82 分 42 秒处
+top146：概率：20.61%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8306 帧,即原视频 27 分 41 秒处
+top147：概率：20.60%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4936 帧,即原视频 16 分 27 秒处
+top148：概率：20.59%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26031 帧,即原视频 86 分 46 秒处
+top149：概率：20.59%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8545 帧,即原视频 28 分 29 秒处
+top150：概率：20.58%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 32445 帧,即原视频 108 分 9 秒处
+top151：概率：20.58%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28341 帧,即原视频 94 分 28 秒处
+top152：概率：20.58%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8204 帧,即原视频 27 分 20 秒处
+top153：概率：20.57%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 17486 帧,即原视频 58 分 17 秒处
+top154：概率：20.55%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4933 帧,即原视频 16 分 26 秒处
+top155：概率：20.55%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4115 帧,即原视频 13 分 43 秒处
+top156：概率：20.54%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15024 帧,即原视频 50 分 4 秒处
+top157：概率：20.54%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6370 帧,即原视频 21 分 14 秒处
+top158：概率：20.50%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7769 帧,即原视频 25 分 53 秒处
+top159：概率：20.48%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15491 帧,即原视频 51 分 38 秒处
+top160：概率：20.48%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 34032 帧,即原视频 113 分 26 秒处
+top161：概率：20.48%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7842 帧,即原视频 26 分 8 秒处
+top162：概率：20.47%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6593 帧,即原视频 21 分 58 秒处
+top163：概率：20.46%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6701 帧,即原视频 22 分 20 秒处
+top164：概率：20.45%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35389 帧,即原视频 117 分 57 秒处
+top165：概率：20.44%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24812 帧,即原视频 82 分 42 秒处
+top166：概率：20.42%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25008 帧,即原视频 83 分 21 秒处
+top167：概率：20.41%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25317 帧,即原视频 84 分 23 秒处
+top168：概率：20.40%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7415 帧,即原视频 24 分 43 秒处
+top169：概率：20.39%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13878 帧,即原视频 46 分 15 秒处
+top170：概率：20.38%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 29294 帧,即原视频 97 分 38 秒处
+top171：概率：20.38%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15473 帧,即原视频 51 分 34 秒处
+top172：概率：20.37%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28900 帧,即原视频 96 分 20 秒处
+top173：概率：20.37%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8197 帧,即原视频 27 分 19 秒处
+top174：概率：20.36%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26451 帧,即原视频 88 分 10 秒处
+top175：概率：20.36%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8304 帧,即原视频 27 分 40 秒处
+top176：概率：20.36%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28946 帧,即原视频 96 分 29 秒处
+top177：概率：20.36%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6199 帧,即原视频 20 分 39 秒处
+top178：概率：20.35%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25017 帧,即原视频 83 分 23 秒处
+top179：概率：20.34%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24984 帧,即原视频 83 分 16 秒处
+top180：概率：20.34%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25018 帧,即原视频 83 分 23 秒处
+top181：概率：20.33%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8301 帧,即原视频 27 分 40 秒处
+top182：概率：20.33%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7782 帧,即原视频 25 分 56 秒处
+top183：概率：20.33%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6857 帧,即原视频 22 分 51 秒处
+top184：概率：20.33%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13868 帧,即原视频 46 分 13 秒处
+top185：概率：20.32%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24791 帧,即原视频 82 分 38 秒处
+top186：概率：20.32%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15774 帧,即原视频 52 分 34 秒处
+top187：概率：20.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 29290 帧,即原视频 97 分 38 秒处
+top188：概率：20.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7954 帧,即原视频 26 分 30 秒处
+top189：概率：20.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 18469 帧,即原视频 61 分 33 秒处
+top190：概率：20.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7764 帧,即原视频 25 分 52 秒处
+top191：概率：20.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7704 帧,即原视频 25 分 40 秒处
+top192：概率：20.29%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7781 帧,即原视频 25 分 56 秒处
+top193：概率：20.29%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4934 帧,即原视频 16 分 26 秒处
+top194：概率：20.29%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7307 帧,即原视频 24 分 21 秒处
+top195：概率：20.28%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26453 帧,即原视频 88 分 10 秒处
+top196：概率：20.26%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4921 帧,即原视频 16 分 24 秒处
+top197：概率：20.25%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24811 帧,即原视频 82 分 42 秒处
+top198：概率：20.25%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6717 帧,即原视频 22 分 23 秒处
+top199：概率：20.24%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13867 帧,即原视频 46 分 13 秒处
+top200：概率：20.23%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24983 帧,即原视频 83 分 16 秒处
+top201：概率：20.21%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6376 帧,即原视频 21 分 15 秒处
+top202：概率：20.21%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 33615 帧,即原视频 112 分 3 秒处
+top203：概率：20.21%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25020 帧,即原视频 83 分 24 秒处
+top204：概率：20.20%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26880 帧,即原视频 89 分 36 秒处
+top205：概率：20.19%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25359 帧,即原视频 84 分 31 秒处
+top206：概率：20.16%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14051 帧,即原视频 46 分 50 秒处
+top207：概率：20.16%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26662 帧,即原视频 88 分 52 秒处
+top208：概率：20.16%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13635 帧,即原视频 45 分 27 秒处
+top209：概率：20.13%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6330 帧,即原视频 21 分 6 秒处
+top210：概率：20.13%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 2879 帧,即原视频 9 分 35 秒处
+top211：概率：20.13%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7289 帧,即原视频 24 分 17 秒处
+top212：概率：20.12%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 13871 帧,即原视频 46 分 14 秒处
+top213：概率：20.12%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24794 帧,即原视频 82 分 38 秒处
+top214：概率：20.11%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6623 帧,即原视频 22 分 4 秒处
+top215：概率：20.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 29321 帧,即原视频 97 分 44 秒处
+top216：概率：20.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25701 帧,即原视频 85 分 40 秒处
+top217：概率：20.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25009 帧,即原视频 83 分 21 秒处
+top218：概率：20.09%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15075 帧,即原视频 50 分 15 秒处
+top219：概率：20.09%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24986 帧,即原视频 83 分 17 秒处
+top220：概率：20.09%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8198 帧,即原视频 27 分 19 秒处
+top221：概率：20.08%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6219 帧,即原视频 20 分 43 秒处
+top222：概率：20.08%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4935 帧,即原视频 16 分 27 秒处
+top223：概率：20.08%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 24793 帧,即原视频 82 分 38 秒处
+top224：概率：20.06%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14113 帧,即原视频 47 分 2 秒处
+top225：概率：20.06%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 1697 帧,即原视频 5 分 39 秒处
+top226：概率：20.05%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6271 帧,即原视频 20 分 54 秒处
+top227：概率：20.05%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7839 帧,即原视频 26 分 7 秒处
+top228：概率：20.04%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25318 帧,即原视频 84 分 23 秒处
+top229：概率：20.03%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7932 帧,即原视频 26 分 26 秒处
+----------最大概率为：25.03%--------------------
+在 47 个文件中比对 test0013_AIresult_top5.txt 用时: 0:00:04.597423
+Total 612 blocks are needed to compare on GPU.
+[0.03814262 0.         0.        ]
+*** GPU计算用时：0:00:00.005261
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.694315
+*** CPU final_result 用时：0:00:00.000038
+-------------------------------------------------------------------------测试视频 test0012_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：53.97%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 31353 帧,即原视频 104 分 30 秒处
+----------最大概率为：53.97%--------------------
+在 47 个文件中比对 test0012_AIresult_top5.txt 用时: 0:00:04.704307
+Total 612 blocks are needed to compare on GPU.
+[0.08198166 0.         0.        ]
+*** GPU计算用时：0:00:00.004795
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.619487
+*** CPU final_result 用时：0:00:00.000047
+-------------------------------------------------------------------------测试视频 test0011_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：41.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 11291 帧,即原视频 37 分 38 秒处
+top2：概率：37.33%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 18948 帧,即原视频 63 分 9 秒处
+----------最大概率为：41.82%--------------------
+在 47 个文件中比对 test0011_AIresult_top5.txt 用时: 0:00:04.629213
+Total 612 blocks are needed to compare on GPU.
+[0.07165489 0.         0.        ]
+*** GPU计算用时：0:00:00.005591
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:05.153612
+*** CPU final_result 用时：0:00:00.000040
+-------------------------------------------------------------------------测试视频 test0010_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：56.41%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 1313 帧,即原视频 4 分 22 秒处
+top2：概率：55.32%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35486 帧,即原视频 118 分 17 秒处
+top3：概率：51.64%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35485 帧,即原视频 118 分 17 秒处
+----------最大概率为：56.41%--------------------
+在 47 个文件中比对 test0010_AIresult_top5.txt 用时: 0:00:05.164900
+Total 612 blocks are needed to compare on GPU.
+[0.13092722 0.         0.        ]
+*** GPU计算用时：0:00:00.007671
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.536027
+*** CPU final_result 用时：0:00:00.000034
+-------------------------------------------------------------------------测试视频 test0009_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：50.18%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 5632 帧,即原视频 18 分 46 秒处
+top2：概率：47.25%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28936 帧,即原视频 96 分 27 秒处
+top3：概率：45.75%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 29019 帧,即原视频 96 分 43 秒处
+top4：概率：45.71%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28136 帧,即原视频 93 分 47 秒处
+----------最大概率为：50.18%--------------------
+在 47 个文件中比对 test0009_AIresult_top5.txt 用时: 0:00:04.552880
+Total 612 blocks are needed to compare on GPU.
+[0.09662202 0.         0.        ]
+*** GPU计算用时：0:00:00.005011
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.885334
+*** CPU final_result 用时：0:00:00.000034
+-------------------------------------------------------------------------测试视频 test0008_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：64.70%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 15531 帧,即原视频 51 分 46 秒处
+----------最大概率为：64.70%--------------------
+在 47 个文件中比对 test0008_AIresult_top5.txt 用时: 0:00:04.894932
+Total 612 blocks are needed to compare on GPU.
+[0.11237137 0.         0.        ]
+*** GPU计算用时：0:00:00.004207
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.574903
+*** CPU final_result 用时：0:00:00.000038
+-------------------------------------------------------------------------测试视频 test0007_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：61.73%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 7432 帧,即原视频 24 分 46 秒处
+----------最大概率为：61.73%--------------------
+在 47 个文件中比对 test0007_AIresult_top5.txt 用时: 0:00:04.583509
+Total 612 blocks are needed to compare on GPU.
+[0.09734653 0.         0.        ]
+*** GPU计算用时：0:00:00.005137
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.977773
+*** CPU final_result 用时：0:00:00.000032
+-------------------------------------------------------------------------测试视频 test0006_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：64.19%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25378 帧,即原视频 84 分 35 秒处
+----------最大概率为：64.19%--------------------
+在 47 个文件中比对 test0006_AIresult_top5.txt 用时: 0:00:04.988080
+Total 612 blocks are needed to compare on GPU.
+[0.06512046 0.         0.        ]
+*** GPU计算用时：0:00:00.006058
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.468823
+*** CPU final_result 用时：0:00:00.000026
+-------------------------------------------------------------------------测试视频 test0005_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：38.70%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 16716 帧,即原视频 55 分 43 秒处
+----------最大概率为：38.70%--------------------
+在 47 个文件中比对 test0005_AIresult_top5.txt 用时: 0:00:04.480475
+Total 612 blocks are needed to compare on GPU.
+[0.19031203 0.         0.        ]
+*** GPU计算用时：0:00:00.005039
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:05.076491
+*** CPU final_result 用时：0:00:00.000026
+-------------------------------------------------------------------------测试视频 test0004_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：62.01%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8635 帧,即原视频 28 分 47 秒处
+----------最大概率为：62.01%--------------------
+在 47 个文件中比对 test0004_AIresult_top5.txt 用时: 0:00:05.088569
+Total 612 blocks are needed to compare on GPU.
+[0.18481268 0.         0.        ]
+*** GPU计算用时：0:00:00.004298
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.847559
+*** CPU final_result 用时：0:00:00.000042
+-------------------------------------------------------------------------测试视频 test0003_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：55.02%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 4431 帧,即原视频 14 分 46 秒处
+top2：概率：51.34%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 37426 帧,即原视频 124 分 45 秒处
+----------最大概率为：55.02%--------------------
+在 47 个文件中比对 test0003_AIresult_top5.txt 用时: 0:00:04.856026
+Total 612 blocks are needed to compare on GPU.
+[0.17443272 0.         0.        ]
+*** GPU计算用时：0:00:00.005338
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.392869
+*** CPU final_result 用时：0:00:00.000038
+-------------------------------------------------------------------------测试视频 test0020_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：59.82%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 17887 帧,即原视频 59 分 37 秒处
+----------最大概率为：59.82%--------------------
+在 47 个文件中比对 test0020_AIresult_top5.txt 用时: 0:00:04.404044
+Total 612 blocks are needed to compare on GPU.
+[0.18378247 0.         0.        ]
+*** GPU计算用时：0:00:00.005558
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.707335
+*** CPU final_result 用时：0:00:00.000034
+-------------------------------------------------------------------------测试视频 test0019_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：46.54%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 18939 帧,即原视频 63 分 7 秒处
+top2：概率：42.57%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26113 帧,即原视频 87 分 2 秒处
+top3：概率：41.94%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 37423 帧,即原视频 124 分 44 秒处
+----------最大概率为：46.54%--------------------
+在 47 个文件中比对 test0019_AIresult_top5.txt 用时: 0:00:04.718686
+Total 612 blocks are needed to compare on GPU.
+[0.14727795 0.         0.        ]
+*** GPU计算用时：0:00:00.006837
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.976500
+*** CPU final_result 用时：0:00:00.000041
+-------------------------------------------------------------------------测试视频 test0018_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：69.84%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 37402 帧,即原视频 124 分 40 秒处
+----------最大概率为：69.84%--------------------
+在 47 个文件中比对 test0018_AIresult_top5.txt 用时: 0:00:04.989667
+Total 612 blocks are needed to compare on GPU.
+[0.2150597 0.        0.       ]
+*** GPU计算用时：0:00:00.004830
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.774188
+*** CPU final_result 用时：0:00:00.000105
+-------------------------------------------------------------------------测试视频 test0017_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：47.62%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 33131 帧,即原视频 110 分 26 秒处
+top2：概率：45.73%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14421 帧,即原视频 48 分 4 秒处
+top3：概率：45.63%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8544 帧,即原视频 28 分 28 秒处
+top4：概率：45.50%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 33129 帧,即原视频 110 分 25 秒处
+top5：概率：45.43%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35951 帧,即原视频 119 分 50 秒处
+top6：概率：45.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8542 帧,即原视频 28 分 28 秒处
+top7：概率：45.06%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35953 帧,即原视频 119 分 50 秒处
+top8：概率：44.99%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8543 帧,即原视频 28 分 28 秒处
+top9：概率：44.87%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26121 帧,即原视频 87 分 4 秒处
+top10：概率：44.78%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35290 帧,即原视频 117 分 38 秒处
+top11：概率：44.54%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8557 帧,即原视频 28 分 31 秒处
+top12：概率：44.34%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35952 帧,即原视频 119 分 50 秒处
+top13：概率：44.22%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25330 帧,即原视频 84 分 26 秒处
+top14：概率：44.14%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26122 帧,即原视频 87 分 4 秒处
+top15：概率：44.13%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8546 帧,即原视频 28 分 29 秒处
+top16：概率：44.01%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8594 帧,即原视频 28 分 38 秒处
+top17：概率：43.96%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 23959 帧,即原视频 79 分 51 秒处
+top18：概率：43.90%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8597 帧,即原视频 28 分 39 秒处
+top19：概率：43.88%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8595 帧,即原视频 28 分 39 秒处
+top20：概率：43.86%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 14420 帧,即原视频 48 分 4 秒处
+top21：概率：43.77%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 33107 帧,即原视频 110 分 21 秒处
+top22：概率：43.55%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8592 帧,即原视频 28 分 38 秒处
+top23：概率：43.53%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8540 帧,即原视频 28 分 28 秒处
+top24：概率：43.51%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 25793 帧,即原视频 85 分 58 秒处
+top25：概率：43.45%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 23948 帧,即原视频 79 分 49 秒处
+top26：概率：43.44%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 16430 帧,即原视频 54 分 46 秒处
+top27：概率：43.43%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8590 帧,即原视频 28 分 38 秒处
+top28：概率：43.42%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6386 帧,即原视频 21 分 17 秒处
+top29：概率：43.31%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35286 帧,即原视频 117 分 37 秒处
+top30：概率：43.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 28711 帧,即原视频 95 分 42 秒处
+top31：概率：43.26%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8588 帧,即原视频 28 分 37 秒处
+top32：概率：43.20%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8584 帧,即原视频 28 分 36 秒处
+top33：概率：43.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6385 帧,即原视频 21 分 17 秒处
+top34：概率：43.10%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35933 帧,即原视频 119 分 46 秒处
+top35：概率：43.03%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35935 帧,即原视频 119 分 47 秒处
+top36：概率：42.91%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 6374 帧,即原视频 21 分 14 秒处
+top37：概率：42.87%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 8586 帧,即原视频 28 分 37 秒处
+top38：概率：42.79%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 23942 帧,即原视频 79 分 48 秒处
+top39：概率：42.72%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26125 帧,即原视频 87 分 5 秒处
+top40：概率：42.69%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 35950 帧,即原视频 119 分 50 秒处
+top41：概率：42.62%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 16429 帧,即原视频 54 分 45 秒处
+----------最大概率为：47.62%--------------------
+在 47 个文件中比对 test0017_AIresult_top5.txt 用时: 0:00:04.784664
+Total 612 blocks are needed to compare on GPU.
+[0.06805964 0.         0.        ]
+*** GPU计算用时：0:00:00.006193
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.833425
+*** CPU final_result 用时：0:00:00.000028
+-------------------------------------------------------------------------测试视频 test0016_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：65.95%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 26640 帧,即原视频 88 分 48 秒处
+----------最大概率为：65.95%--------------------
+在 47 个文件中比对 test0016_AIresult_top5.txt 用时: 0:00:04.845994
+Total 612 blocks are needed to compare on GPU.
+[0.10014349 0.         0.        ]
+*** GPU计算用时：0:00:00.005119
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.454092
+*** CPU final_result 用时：0:00:00.000028
+-------------------------------------------------------------------------测试视频 test0015_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：42.03%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 34434 帧,即原视频 114 分 46 秒处
+----------最大概率为：42.03%--------------------
+在 47 个文件中比对 test0015_AIresult_top5.txt 用时: 0:00:04.464359
+Total 612 blocks are needed to compare on GPU.
+[0.07276273 0.         0.        ]
+*** GPU计算用时：0:00:00.008534
+len of results 626670
+*** CPU cpu_find_most_result_time() 用时：0:00:04.635233
+*** CPU final_result 用时：0:00:00.000028
+-------------------------------------------------------------------------测试视频 test0014_AIresult_top5.txt 的最终匹配结果为：
+top1：概率：49.30%, 源：U2RoseBowl体育演唱会_AIresult_top5.txt, 抽帧样本 18687 帧,即原视频 62 分 17 秒处
+----------最大概率为：49.30%--------------------
+在 47 个文件中比对 test0014_AIresult_top5.txt 用时: 0:00:04.649512
